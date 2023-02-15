@@ -1,0 +1,11 @@
+.metals
+.vscode
+.bsp
+project
+target
+target
+project
+build.sbt
+.scalafmt.conf
+Diagram 2023-02-10 09-16-32.uxf
+src/main/scala/library/diagramme.uml

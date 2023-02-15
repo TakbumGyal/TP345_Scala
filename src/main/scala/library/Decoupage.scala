@@ -31,6 +31,7 @@ trait AnalysePage {
         }
         }
       }
+      
 
     val urls_filtrees = FiltrageURLs.filtreAnnonce(HtmlExample.exemple) // url
 
