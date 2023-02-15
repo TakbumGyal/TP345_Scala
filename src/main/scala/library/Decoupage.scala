@@ -42,6 +42,7 @@ trait AnalysePage {
   }
 }
 
+
 def getTitre (htmlDoc : html) : String ={
   html match {
     case tag(title , _ , child) =>  title
